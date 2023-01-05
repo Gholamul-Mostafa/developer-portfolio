@@ -1,0 +1,51 @@
+*{
+  margin: 0%;
+  font-family: 'Open Sans', sans-serif;
+}
+/* header and navigation style */
+nav{
+  display: flex;
+  margin: 50px 220px;
+  justify-content: space-between;
+}
+nav ul{
+  display:flex;
+  align-items: 50px;
+}
+nav li{
+  list-style: none;
+  margin-left: 50px;
+}
+.nav-tittle{
+  font-size: 45;
+  font-weight: 800;
+  
+}
+.btn-primary{
+  color: aliceblue;
+  background-color: #FD6E0A;
+  padding: 18px 35px;
+  border: 0;
+}
+.primary-text{
+  color: #FD6E0A;
+}
+/* banner area */
+.banner{
+  display: flex;
+  align-items: center;
+  margin: 0 200px;
+}
+.banner-tittle{
+  font-weight: 700px;
+  font-size: 85px;
+}
+.banner-sub-tittle{
+  font-weight: 600px;
+  font-size: 45px;
+
+
+}
+.banner-description{
+
+}
